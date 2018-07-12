@@ -1,1 +1,2 @@
-# AlienInvasionG
+# AlienInvasionG 
+this game is lame
